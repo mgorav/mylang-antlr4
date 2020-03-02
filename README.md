@@ -33,3 +33,5 @@ Now run `MyLang.mylang` to test the language which contains code in written in M
 mvn exec:java
 ```
 
+or running the java class MyLangExecutor.
+
