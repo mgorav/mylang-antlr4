@@ -27,7 +27,7 @@ Compile all classes:
 mvn install
 ```
 
-Now run `MyLang.mylang` to test the language:
+Now run `MyLang.mylang` to test the language which contains code in written in MyLang :-)
 
 ```bash
 mvn exec:java
